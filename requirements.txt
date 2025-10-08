@@ -1,0 +1,7 @@
+wikipedia-api
+mwparserfromhell
+transformers>=4.41
+torch>=2.2
+numpy==1.26.4
+tqdm
+streamlit

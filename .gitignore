@@ -1,0 +1,24 @@
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Checkpoints & datasets
+data/**
+models/**
+
+# Garder les dossiers vides
+!data/.gitkeep
+!models/.gitkeep
+
+# Streamlit cache
+.streamlit/
+
+# macOS
+.DS_Store
