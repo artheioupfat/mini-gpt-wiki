@@ -15,7 +15,7 @@ Petit projet **Personnel** pour construire un **mini GPT** entraîné sur un sou
 ## 🖼️ Aperçu de l'interface
 
 
-![Interface Streamlit](Image/Results.png)
+![Interface Streamlit](Image/Resultat.png)
 
 
 ---
