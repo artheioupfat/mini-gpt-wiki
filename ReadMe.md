@@ -10,6 +10,16 @@ Petit projet **Personnel** pour construire un **mini GPT** entraîné sur un sou
 
 ---
 
+
+
+## 🖼️ Aperçu de l'interface
+
+
+![Interface Streamlit](Image/Results.png)
+
+
+---
+
 ## ⚙️ Prérequis
 - Python **3.10+**
 - **PyTorch** 2.2+ (avec MPS sur Mac, ou CUDA si dispo)
@@ -66,7 +76,7 @@ mini-gpt-wiki/
 
 ---
 
-## 🧭 Workflow (TL;DR)
+## 🧭 Workflow 
 
 ### 1) Scraper Wikipédia
 Choisir une **page mère**, la **langue**, la **profondeur** et un **max de pages** (exemple FR sur *Intelligence artificielle*).
